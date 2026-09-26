@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: garden-csh.pages.dev/
+  baseUrl: garden-csh.pages.dev
   ignorePatterns:
     - private
     - _templates
