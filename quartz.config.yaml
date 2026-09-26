@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: armita.github.io/quartz
+  baseUrl: 1259d9af.garden-csh.pages.dev
   ignorePatterns:
     - private
     - _templates
